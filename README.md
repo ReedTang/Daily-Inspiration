@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Daily-Inspiration · 每日灵感合集
+# ✨ Daily-Inspiration · 每日灵感合集 ✨
 
 **必应 4K 壁纸 · 每日一句 · 每日一言 · 每日诗词 · 传统历法节气**  
 一个 **全自动化、零手动操作** 的每日灵感收集与归档项目，每天通过 GitHub Actions 定时调用 4 大免 Key 接口，自动沉淀结构化数据并渲染属于你的「每日灵感知识库」。
